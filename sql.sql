@@ -21,7 +21,7 @@ CREATE TABLE IF NOT EXISTS youtube_channel (
 
 CREATE TABLE IF NOT EXISTS channel_subscriber (
     youtube_account_id BIGINT REFERENCES youtube_account(id),
-    youtube_channel_id BIGINT REFERENCES youtube_channel(id)
+    youtube_channel_id BIGINT REFERENCES youtube_channel(id),
     created_at TIMESTAMP WITHOUT TIME ZONE NOT NULL,
     PRIMARY KEY (youtube_account_id, youtube_channel_id)
 );
