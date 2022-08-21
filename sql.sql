@@ -6,3 +6,8 @@ CREATE TABLE user_profile (
     gender TEXT CHECK (gender IN ('MALE', 'FEMALE')) NOT NULL,
     created_at TIMESTAMP WITHOUT TIME ZONE NOT NULL
 );
+
+CREATE TABLE IF NOT EXISTS youtube_account (
+    user_profile_id BIGINT PRIMARY KEY REFERENCES user_profile(id),
+    created_at TIMESTAMP WITHOUT TIME ZONE NOT NULL
+);
