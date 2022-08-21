@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-21T03:50:10.048Z" agent="5.0 (Windows)" etag="rlhaDvGopC92R3vgBuSW" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-21T03:57:46.623Z" agent="5.0 (Windows)" etag="aIwCgyXnWBmBa-D0Z8-H" version="20.2.5" type="github">
   <diagram id="eFtW5oq1gpHwAF29WDRR" name="Page-1">
     <mxGraphModel dx="994" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -171,7 +171,7 @@
             <mxRectangle width="50" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hj8FZ2WXCeCT6SRPrueF-22" value="user_profile_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="Hj8FZ2WXCeCT6SRPrueF-20" vertex="1">
+        <mxCell id="Hj8FZ2WXCeCT6SRPrueF-22" value="id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="Hj8FZ2WXCeCT6SRPrueF-20" vertex="1">
           <mxGeometry x="50" width="90" height="30" as="geometry">
             <mxRectangle width="90" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -228,7 +228,7 @@
             <mxRectangle width="40" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hj8FZ2WXCeCT6SRPrueF-47" value="youtube_account_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="Hj8FZ2WXCeCT6SRPrueF-45" vertex="1">
+        <mxCell id="Hj8FZ2WXCeCT6SRPrueF-47" value="id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="Hj8FZ2WXCeCT6SRPrueF-45" vertex="1">
           <mxGeometry x="40" width="130" height="30" as="geometry">
             <mxRectangle width="130" height="30" as="alternateBounds" />
           </mxGeometry>
